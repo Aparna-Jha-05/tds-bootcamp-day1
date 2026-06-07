@@ -2,7 +2,7 @@
 ---
 
 --- Before Day-1 ---
-I already knew ...
+I already knew linux because of completing system commands...
 --- 
 
 ## Day-1 Checklist
